@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This was a group project for Dev Point Labs. I built out the entire admin side, as well as the cart and menu.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is written in Rails on the backend and React on the frontend. We used Braintree API to process payments, and we're running a Postgresql database.
